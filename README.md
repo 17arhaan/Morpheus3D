@@ -2,15 +2,7 @@
 
 <p align="center">
   <a href="https://vercel.com/arhaan-girdhars/v0-3-d-model-generator-by-arhaan" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge" alt="Live Demo" />
-  </a>
-</p>
-
-## Deployment
-
-<p align="center">
-  <a href="https://vercel.com/arhaan-girdhars/v0-3-d-model-generator-by-arhaan" target="_blank">
-    <img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel" alt="Vercel Deployment" />
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge" alt="Live Demo" />
   </a>
 </p>
 
