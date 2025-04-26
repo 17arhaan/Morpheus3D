@@ -1,7 +1,7 @@
 # 3D Model Generator by Arhaan
 
 <p align="center">
-  <a href="https://vercel.com/arhaan-girdhars/v0-3-d-model-generator-by-arhaan" target="_blank">
+  <a href="https://morpheus3-d.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Site-black?style=for-the-badge" alt="Live Demo" />
   </a>
 </p>
