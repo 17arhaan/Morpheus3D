@@ -19,10 +19,9 @@ npm install
 
 # Run the development server:
 npm run dev
-
+```
 # Open in browser:
 # http://localhost:3000
-```
 
 ### Generating a 3D Model from Text
 
