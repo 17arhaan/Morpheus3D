@@ -1,4 +1,4 @@
-# 3D Model Generator by Arhaan
+# 3D Model Generator by Arhaan Girdhar
 
 <p align="center">
   <a href="https://morpheus3-d.vercel.app/" target="_blank">
