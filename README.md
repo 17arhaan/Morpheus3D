@@ -1,4 +1,3 @@
-```markdown
 # 3D Model Generator by Arhaan
 
 <p align="center">
@@ -31,7 +30,6 @@ npm run dev
 
 # Open in browser:
 # http://localhost:3000
-```
 
 ## Usage
 
@@ -117,6 +115,5 @@ Licensed under the MIT License. See [LICENSE](LICENSE) for details.
 </p>
 
 <p align="center">
-  Built with ❤️ and 🎨 by **Arhaan Girdhhar** • © 2025
+  Built by Arhaan Girdhar • © 2025
 </p>
-```
